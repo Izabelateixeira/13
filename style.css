@@ -1,0 +1,15 @@
+.cabeçudo {
+    display: flex;
+    justify-content: center;
+    font-family: "Inter", sans-serif;
+    font-style: normal;
+    font-weight:400;
+    font-size: 20px;
+    color: #107300;
+}
+.imagemretangulo{
+    justify-content: center;
+    width: 100px;
+    align-items: center;
+    padding-bottom: 120px;
+}
