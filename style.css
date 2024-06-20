@@ -1,4 +1,4 @@
-.cabeçudo {
+.cabeçudo{
     display: flex;
     justify-content: center;
     font-family: "Inter", sans-serif;
@@ -7,9 +7,24 @@
     font-size: 20px;
     color: #107300;
 }
-.imagemretangulo{
-    justify-content: center;
-    width: 100px;
+.imagemretangulo {
     align-items: center;
-    padding-bottom: 120px;
+    justify-content: center;
+    margin-left: 350px;
+    margin-right: 120px;
+}
+.MERCEARIA{
+    color: #DC7516
+}
+.AÇOUGUE{ 
+    color: #F119F5;
+}
+.HIGIENEPESSOAL{
+color: #E73434;
+}
+.FEIRA{ 
+    color: #becd12;
+}
+.PRODUTOSDELIMPEZA{
+    color: #233dff;
 }
